@@ -6,7 +6,7 @@
 package laporan.pkg1.pbo;
 
 /**
- *
+ *jhgjh
  * @author nhawa
  */
 public class Laporan1PBO {
